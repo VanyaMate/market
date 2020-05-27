@@ -1,1 +1,1 @@
-console.log('ts- test ssh key');
+console.log('App execute');
